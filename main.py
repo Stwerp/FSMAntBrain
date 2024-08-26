@@ -7,12 +7,12 @@ from brain_fill_in import antBrain
 
 Graphical = True  # Set this to false for the ascii version
 
-# if "Whatever you want" in antBrain.states:
-#   print('*'*80)
-#   print('*'*80)
-#   print(">>>>>> Fill in the 'brain_fill_in.py' file with your ant brain! <<<<<")
-#   print('*'*80)
-#   print('*'*80)
+if "Whatever you want" in antBrain.states:
+  print('*'*80)
+  print('*'*80)
+  print(">>>>>> Fill in the 'brain_fill_in.py' file with your ant brain! <<<<<")
+  print('*'*80)
+  print('*'*80)
 
 if Graphical:
     # VISUAL MODE (needs "pygame" installed)
